@@ -10,6 +10,8 @@ I work with different languages and platforms best exemplified by these repos:
 [Matlab & R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)  
 [Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment)  
 And I am familiar with [Tableau](https://public.tableau.com/app/profile/douwe.horsthuis/viz/NYPD_visualizing_complaints/Dashboard1).  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
