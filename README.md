@@ -8,7 +8,7 @@ I am a Data analyst, lab manager and EEG technician in the CNL at Albert Einstei
 
 I work with different languages and platforms best exemplified by these repos:  
 [Matlab & R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)  
-[Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (unfortunatly Github does not recognize this language and calls it scilabs)  
+[Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (Github calls this language scilabs)  
 And I am familiar with [Tableau](https://public.tableau.com/app/profile/douwe.horsthuis/viz/NYPD_visualizing_complaints/Dashboard1).  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis)](https://github.com/anuraghazra/github-readme-stats)
