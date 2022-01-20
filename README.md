@@ -11,7 +11,7 @@ I work with different languages and platforms best exemplified by these repos:
 [Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (Github calls this language scilabs)  
 And I am familiar with [Tableau](https://public.tableau.com/app/profile/douwe.horsthuis/viz/NYPD_visualizing_complaints/Dashboard1).  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douwehorsthuis)](https://github.com/anuraghazra/github-readme-stats)
 
   
