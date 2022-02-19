@@ -12,7 +12,7 @@ I work with different languages and platforms best exemplified by these repos:
 And I am familiar with [Tableau](https://public.tableau.com/app/profile/douwe.horsthuis/viz/NYPD_visualizing_complaints/Dashboard1).  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douwehorsthuis&exclude_repo,https://github.com/DouweHorsthuis/A-Bellabeat-Case-Study-Google-Data-Analytics)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douwehorsthuis&exclude_repo=A-Bellabeat-Case-Study-Google-Data-Analytics)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
