@@ -1,5 +1,5 @@
 This is the Github page of Douwe Horsthuis
-- 🌱 I’m working with [Matlab](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R), [R](https://github.com/DouweHorsthuis/Case-study-Cyclistic-a-bike-share-company), [Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (Github calls this language scilabs)  and always trying to learn more about anything I work with
+- 🌱 I’m working with [Matlab](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R), [R](https://github.com/DouweHorsthuis/Case-study-Cyclistic-a-bike-share-company), [Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (Github calls this language scilabs), Rmarkdown and always trying to learn more about anything I work with
 - :scientist:  Currently working as a data analyst
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: douwehorsthuis@gmail.com
