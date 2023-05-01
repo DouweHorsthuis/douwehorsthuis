@@ -15,7 +15,7 @@ I work with different languages and platforms best exemplified by these repos:
 [Markdown](https://github.com/DouweHorsthuis/machine-learning-cousera/blob/main/Coursera%20class%20notes.ipynb)  
 [Presentation (Scenario Description Language (SDL) & Presentation Control Language (PCL))](https://github.com/DouweHorsthuis/N-back-task-experiment) (Github calls this language scilabs)  
 And I am familiar with [Tableau](https://public.tableau.com/app/profile/douwe.horsthuis/viz/NYPD_visualizing_complaints/Dashboard1).  
-I am starting to work with [SAS](https://github.com/DouweHorsthuis/sas).  
+I am currently mainly coding in [SAS](https://github.com/DouweHorsthuis/sas) and SQL.  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douwehorsthuis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
